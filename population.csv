@@ -1,10 +1,10 @@
-Región;2022;2030;2050
-África Subsahariana;1152;1401;2094
-África del Norte y Asia occidental;549;617;771
-Asia Central y Sur de Asia;2075;2248;2575
-Asia Oriental y Sudeste de Asia;2342;2372;2317
-Europa EEUU y Canadá;1120;1129;1.125
-América Latina y el Caribe;658;695;749
-Australia/Nueva Zelanda;31;34;38
-Oceanía;14;15;20
-Mundo;7942;8512;9687
+Región,2022,2030,2050
+África Subsahariana,1152,1401,2094
+África del Norte y Asia occidental,549,617,771
+Asia Central y Sur de Asia,2075,2248,2575
+Asia Oriental y Sudeste de Asia,2342,2372,2317
+Europa EEUU y Canadá,1120,1129,1125
+América Latina y el Caribe,658,695,749
+Australia/Nueva Zelanda,31,34,38
+Oceanía,14,15,20
+Mundo,7942,8512,9687
